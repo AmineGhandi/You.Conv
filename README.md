@@ -4,13 +4,11 @@
 
 - Youtube Converstion to MP3 or MP4
 
-# Comment le faire fonctionner :
+## Comment le faire fonctionner :
 
 
- - ouvrez cmd on mode admin et naviguer au dossier sou nom (PFE Amine Ghandi) pour fair sela excuter la commande :
-```sh
-   cd Desktop\PFF Amine Ghandi
-```
+ - ouvrez cmd on mode admin et naviguer au dossier sou nom (PFE Amine Ghandi)
+ 
  - aprez ouvrire le dossier PFF Amine Ghandi excutez la commande suivante :
 ```sh
    npm install
@@ -19,9 +17,9 @@
 ```sh
    node index.js
 ```
-- ouvrez Home.html 
- 
- 
+ - ouvrez Home.html 
+## Sommaire :
+
 - dossier css : les styles utiliser pour styler mon site web fait par boostrap framework
 - dossier fonts : les extensions de fonts utiliser dans mon code css
 - dossier images : les images et designe photoshop utiliser dans mon site web
